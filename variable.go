@@ -4,7 +4,7 @@ import (
 	"fmt"
 )
 
-func main() {
+func variables() {
 	// var variable_name type = expression
 	var name string = "sujon"
 	// name = "sujon"
@@ -17,4 +17,5 @@ func main() {
 
 	var a, b int = 1, 2
 	fmt.Println(a, "a", b, "b")
+
 }
